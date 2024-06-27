@@ -1,4 +1,4 @@
 {
-  "/[locale]/(landing-page)/page": "app/[locale]/(landing-page)/page.js",
-  "/[locale]/(landing-page)/(course)/course/[courseId]/page": "app/[locale]/(landing-page)/(course)/course/[courseId]/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/[locale]/(landing-page)/page": "app/[locale]/(landing-page)/page.js"
 }

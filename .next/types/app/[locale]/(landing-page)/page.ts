@@ -1,4 +1,4 @@
-// File: E:\newww\lms-ui\app\[locale]\(landing-page)\page.tsx
+// File: E:\hehe\Phan-Quang-Phuc\app\[locale]\(landing-page)\page.tsx
 import * as entry from '../../../../../app/[locale]/(landing-page)/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
